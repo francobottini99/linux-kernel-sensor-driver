@@ -1,0 +1,10 @@
+.vscode
+.pio
+/app/bin
+/app/obj
+/app/app.sln
+/server/bin
+/server/CMakeFiles
+/server/CMakeCache.txt
+/server/cmake_install.cmake
+/server/Makefile
