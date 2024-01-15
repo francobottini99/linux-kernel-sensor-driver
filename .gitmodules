@@ -1,9 +1,0 @@
-[submodule "dht11_serial_interface/lib/SoftwareSerial"]
-	path = dht11_serial_interface/lib/SoftwareSerial
-	url = https://github.com/PaulStoffregen/SoftwareSerial.git
-[submodule "dht11_serial_interface/lib/DHT-sensor-library"]
-	path = dht11_serial_interface/lib/DHT-sensor-library
-	url = https://github.com/adafruit/DHT-sensor-library.git
-[submodule "dht11_serial_interface/lib/Adafruit_Sensor"]
-	path = dht11_serial_interface/lib/Adafruit_Sensor
-	url = https://github.com/adafruit/Adafruit_Sensor.git
