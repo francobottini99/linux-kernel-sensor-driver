@@ -1,4 +1,4 @@
-# Trabajo final de la materia de Sistemas de Computación 2023 
+# Modulo del kernel para la lectura de sensores por medio de una interfaz de puerto serie
 
 Implementación de un modulo para el kernel de Linux que permite la lectura de sensores [*DHT11*](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf) y [*TFMINI*](https://alicliimg.clewm.net/476/457/1457476/1502760306607344e88e353c263a4b22b3680f6a8be261502760289.pdf) por medio de una interfaz de puerto serie con el adaptador [*CP210x*](https://www.sparkfun.com/datasheets/IC/cp2102.pdf). También se implementa una aplicación a nivel de usuario que hace uso del driver.
 
